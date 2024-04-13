@@ -1,0 +1,2 @@
+name = Nyasha
+print(name)
